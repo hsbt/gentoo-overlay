@@ -4,13 +4,13 @@
   <repo quality="experimental" status="unofficial">
     <name><![CDATA[hsbt]]></name>
     <description lang="en"><![CDATA[hsbt's Gentoo Overlay]]></description>
-    <homepage>https://github.com/hsbt/gentoo-overlay</homepage>
+    <homepage>https://github.com/hsbt/hsbt-overlay</homepage>
     <owner type="person">
       <email>shibata.hiroshi@gmail.com</email>
       <name><![CDATA[Hiroshi SHIBATA]]></name>
     </owner>
-    <source type="git">git://github.com/hsbt/gentoo-overlay.git</source>
-    <source type="git">https://github.com/hsbt/gentoo-overlay.git</source>
-    <feed>https://github.com/hsbt/gentoo-overlay/commits/master.atom</feed>
+    <source type="git">git://github.com/hsbt/hsbt-overlay.git</source>
+    <source type="git">https://github.com/hsbt/hsbt-overlay.git</source>
+    <feed>https://github.com/hsbt/hsbt-overlay/commits/master.atom</feed>
   </repo>
 </repositories>
